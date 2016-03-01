@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculator.iml" filepath="$PROJECT_DIR$/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorAndroid/CalculatorAndroid.iml" filepath="$PROJECT_DIR$/CalculatorAndroid/CalculatorAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorAndroidTest/CalculatorAndroidTest.iml" filepath="$PROJECT_DIR$/CalculatorAndroidTest/CalculatorAndroidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorCore/CalculatorCore.iml" filepath="$PROJECT_DIR$/CalculatorCore/CalculatorCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorDesktop/CalculatorDesktop.iml" filepath="$PROJECT_DIR$/CalculatorDesktop/CalculatorDesktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorRequirements/CalculatorRequirements.iml" filepath="$PROJECT_DIR$/CalculatorRequirements/CalculatorRequirements.iml" />
+    </modules>
+  </component>
+</project>

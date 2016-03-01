@@ -1,0 +1,22 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="es.ulpgc.eite.calculator.android">
+
+    <uses-sdk android:minSdkVersion="16"
+              android:targetSdkVersion="22" />
+
+    <application android:allowBackup="true" android:label="@string/app_name"
+        android:icon="@drawable/app_calculator_logo" android:theme="@style/AppTheme"
+        android:name=".mediator.CalculatorMediatorSingleton">
+
+        <activity android:name=".portrait.PortraitCalculatorView"
+            android:configChanges="orientation|keyboardHidden|screenSize">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FrameworkAndroid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CalculatorAndroid/libs/FrameworkAndroid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

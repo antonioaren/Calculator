@@ -1,0 +1,13 @@
+<resources>
+
+    <!--<string name="app_name">Calculator Android</string>-->
+    <string name="app_name">Calculator</string>
+
+    <string name="lbl_backspace">Back Space</string>
+    <string name="app_calculator">Calculator</string>
+    <string name="calculator_landscape">Calculator Landscape</string>
+    <string name="calculator_portrail">Calculator Portrail</string>
+
+    <string name="lbl_clear">Clear</string>
+
+</resources>

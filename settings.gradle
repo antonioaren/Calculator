@@ -1,0 +1,4 @@
+rootProject.name = 'Calculator'
+include 'CalculatorRequirements'
+include 'CalculatorCore'
+
